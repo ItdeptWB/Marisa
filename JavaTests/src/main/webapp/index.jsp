@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello mARIZA!</h2>
+<h2>Hello MARIZA!</h2>
 </body>
 </html>
